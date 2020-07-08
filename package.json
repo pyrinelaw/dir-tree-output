@@ -1,0 +1,14 @@
+{
+    "name": "dir-tree-output",
+    "version": "0.0.1",
+    "description": "输出文件夹多层目录",
+    "bin": {
+        "dir-tree": "./bin/index.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "ignore": "^5.1.0",
+        "process-argvs": "^0.0.3"
+    }
+}
+  

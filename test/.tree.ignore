@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+*.scss
+*.js
+*.jpeg
+*.png
+*.gif
+dist
+src/routes/home
