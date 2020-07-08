@@ -1,6 +1,6 @@
 {
     "name": "dir-tree-output",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "输出文件夹多层目录",
     "bin": {
         "dir-tree": "./bin/index.js"

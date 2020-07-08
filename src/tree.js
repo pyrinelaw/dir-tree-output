@@ -97,7 +97,7 @@ class Tree {
         const lineStrArr = [getRootDirName()];
 
         if (tree.length == 0) {
-            lineStrArr.push(`${symbolPrefix.LAST}directory is empty`)
+            lineStrArr.push(`${symbolPrefix.LAST}directory is empty`);
             console.log(lineStrArr.join('\n'));
             return;
         }
