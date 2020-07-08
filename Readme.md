@@ -4,6 +4,8 @@
 
 ### 执行示例
 ``` bash
+npm install -g dir-tree-output
+
 cd dir
 dir-tree -deep 2 -stretch -ignore node_modules .bin dist
 ```
